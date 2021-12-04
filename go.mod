@@ -1,4 +1,4 @@
-module exedep
+module github.com/zergon321/exedep
 
 go 1.17
 
